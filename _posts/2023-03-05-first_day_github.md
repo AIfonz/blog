@@ -3,7 +3,7 @@ title: "First day on Github"
 date: 2023-03-05
 ---
 
-individueel 
+individueel  
 <a href="https://github.com/skills/introduction-to-github"> Intro Github </a>  
 
 met klasgenoot  
