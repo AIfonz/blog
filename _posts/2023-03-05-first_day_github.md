@@ -10,7 +10,7 @@ met klasgenoot
 <a href="https://github.com/skills/introduction-to-github"> Markdown </a>  
 <a href="https://github.com/skills/github-pages"> Pages </a> 
 
-met team voor praktijkopdracht
+met team voor praktijkopdracht  
 Maak een public repository voor je praktijkproject en zorg dat je gevoelige/privacy maskeert / niet opneemt.
 Voeg collaborators (medestudenten en docent)
 
