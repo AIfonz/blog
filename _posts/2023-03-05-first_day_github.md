@@ -16,4 +16,4 @@ Voeg collaborators (medestudenten en docent)
 
 Deel de urls in je persoonlijke ambitieplan in brightspace en in de teams chat voor 17:00, als iedereen klaar is is de dag afgelopen.
 
-<a href="/READme.md"> Intro Github </a>  
+<a href="/README.md"> Intro Github </a>  
