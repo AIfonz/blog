@@ -7,7 +7,7 @@ individueel
 <a href="https://github.com/skills/introduction-to-github"> Intro Github </a>  
 
 met klasgenoot  
-<a href="https://github.com/skills/introduction-to-github"> Markdown </a> 
+<a href="https://github.com/skills/introduction-to-github"> Markdown </a>  
 <a href="https://github.com/skills/github-pages"> Pages </a> 
 
 met team voor praktijkopdracht
